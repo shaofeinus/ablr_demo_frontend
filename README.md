@@ -1,4 +1,4 @@
-## ablr Demo App
+# ablr Demo App
 This is the front end of a demo application that retrieves user's personal data from the Singpass MyInfo system.
 
 ## Prerequisite
