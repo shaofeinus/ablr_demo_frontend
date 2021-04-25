@@ -10,7 +10,7 @@ In order to connect to the backend APIs, we need to specify the API root url. Se
 The default api root is set to `http://localhost:8000`.
 
 Since the callback URL of MyInfo test environment is `http://localhost:3001/callback`, we need to run the frontend
-application on port 3001.
+application on port 3001. Set the environment variable `PORT` to the `3001`.
 
 ## Running the development server
 To run the development server using npm:
